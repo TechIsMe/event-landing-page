@@ -1,8 +1,14 @@
-body {
-    background-color: aqua;
-}
-@media (max-width : 500px){
+/* body {
+    background-image:url(https://unsplash.com/photos/QcMI3sETm1Q);
+} */
+/* @media (max-width : 500px){
     body {
         background-color: brown;
     }
+} */
+
+.big-banner{
+    background-image: url('./image/photo-1636116461481-4c3ec444c9f8.jpg');
+    
 }
+    
