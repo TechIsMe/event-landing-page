@@ -8,7 +8,11 @@
 } */
 
 .big-banner{
-    background-image: url('./image/photo-1636116461481-4c3ec444c9f8.jpg');
+    background-image: url('./image/pexels-3photo-4143800.jpeg');
+    /* -webkit-background-size: cover ; */
+    height: 100%;
+    background-position: 10vh;
+    
     
 }
     
